@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4c1d1e7e.chunk.css",
+    "main.js": "./static/js/main.2fc3ccfe.chunk.js",
+    "main.js.map": "./static/js/main.2fc3ccfe.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.fcfe2d94.js",
+    "runtime-main.js.map": "./static/js/runtime-main.fcfe2d94.js.map",
+    "static/js/2.17e52322.chunk.js": "./static/js/2.17e52322.chunk.js",
+    "static/js/2.17e52322.chunk.js.map": "./static/js/2.17e52322.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.54cb586ad84790bc52d449f015604f77.js": "./precache-manifest.54cb586ad84790bc52d449f015604f77.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.4c1d1e7e.chunk.css.map": "./static/css/main.4c1d1e7e.chunk.css.map",
+    "static/js/2.17e52322.chunk.js.LICENSE.txt": "./static/js/2.17e52322.chunk.js.LICENSE.txt",
+    "static/media/chat_e.svg": "./static/media/chat_e.46001e05.svg",
+    "static/media/diet.svg": "./static/media/diet.8378708a.svg",
+    "static/media/doctor.svg": "./static/media/doctor.94d0e397.svg",
+    "static/media/emoti.svg": "./static/media/emoti.c22fcdc0.svg",
+    "static/media/locker.svg": "./static/media/locker.063a17a4.svg",
+    "static/media/logo.svg": "./static/media/logo.824e7bc3.svg",
+    "static/media/music.svg": "./static/media/music.e1a32aa3.svg",
+    "static/media/running_r.svg": "./static/media/running_r.404bb9d2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcfe2d94.js",
+    "static/js/2.17e52322.chunk.js",
+    "static/css/main.4c1d1e7e.chunk.css",
+    "static/js/main.2fc3ccfe.chunk.js"
+  ]
+}
